@@ -14,6 +14,14 @@ nav .container-fluid {
 .hero .row {
   width: 100%;
 }
+@media screen and (min-width: 768px) {
+  .hero .colored-row {
+    width: 50%;
+  }
+  .hero .bg-image {
+    width: 50%;
+  }
+}
 
 .w-45 {
   width: 45%;
