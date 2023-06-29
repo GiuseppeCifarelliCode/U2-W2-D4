@@ -1,0 +1,32 @@
+nav .container-fluid {
+  flex-direction: row-reverse;
+}
+
+.hero .colored-row {
+  background-color: #754FFE;
+}
+.hero img {
+  width: 100%;
+}
+.hero .bg-image {
+  background-color: #754FFE;
+}
+.hero .row {
+  width: 100%;
+}
+
+.w-45 {
+  width: 45%;
+}
+
+.w-15 {
+  width: 15%;
+}
+
+.main {
+  margin: 10px;
+}
+
+.row {
+  margin: 0;
+}/*# sourceMappingURL=style.css.map */
